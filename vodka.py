@@ -1,0 +1,1 @@
+print('Vodka is amazing')
